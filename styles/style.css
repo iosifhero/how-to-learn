@@ -301,10 +301,6 @@
   color: #fff;
 }
 
-.footer__column_content_info {
-
-}
-
 .footer__column-heading {
   margin: 0;
   margin-bottom: 20px;
@@ -312,12 +308,6 @@
   font-size: 18px;
   font-weight: 600;
   color: #fff;
-}
-.footer__column {
-
-}
-.footer__column_content_info {
-
 }
 
 .footer__column-links {
@@ -332,22 +322,10 @@
   padding: 0 5px;
 }
 
-.footer__column-item {
-
-}
-
 .footer__column-link {
   text-decoration: none;
   line-height: 30px;
   font-size: 18px;
   font-weight: normal;
   color: #fff;
-}
-
-.footer__column_content_social {
-
-}
-
-.footer__social-icon {
-
 }
